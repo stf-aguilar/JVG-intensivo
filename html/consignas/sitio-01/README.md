@@ -1,5 +1,4 @@
 # Sitio (simularemos el sitio (https://www.pokemon.com/el/))
-Esta consigna también esta en Google Drive (https://drive.google.com/drive/folders/127pni3KqYIiivNuoFwYoioRtvJwDrwhe?usp=sharing)
 
 Crear una carpeta:
 * Nombre: sitio01
